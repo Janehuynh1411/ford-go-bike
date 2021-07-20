@@ -65,8 +65,10 @@ One path would be looking across three areas I investigated above. Here are some
 2) Look at which user type uses the Ford Go Bike service more each day. Maybe there are more customers riding the bikes in the weekend.
 3) Look at which stations have the highest Baby Boomers or Gen Z, and make suggestions if Ford should run some local marketing campaigns there
 
-# This repository
+# This repository files
 1) Exploratory ipyn file
 2) Explanatory ipyn file
-3) Interactive exploratory file
-4) Interactive explanatory file
+3) Interactive exploratory html slide
+4) Interactive explanatory html slide
+5) Exploratory html file
+6) Explanatory html file
